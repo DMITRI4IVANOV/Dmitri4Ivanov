@@ -1,7 +1,8 @@
 ## I'm a beginner Java QA Automation Engineer
 
 ## I have completed my training
-[![Header](https://github.com/DMITRI4IVANOV/Dmitri4Ivanov/blob/main/assets/netology.jpg)
+
+![Header](https://github.com/DMITRI4IVANOV/Dmitri4Ivanov/blob/main/assets/netology.jpg)
 
 ## [Дипломный проект](https://github.com/DMITRI4IVANOV/QA-DiplomProject)
 
